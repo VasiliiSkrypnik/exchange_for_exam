@@ -1,6 +1,6 @@
 var runExchange = function() {
 	// settings
-	var answersUrl = '2664673.json';
+	var answersUrl = 'https://raw.githubusercontent.com/VasiliiSkrypnik/exchange_for_exam/main/2664673.json';
 	var skipNumber = 0;
 	var showAll = false;
 	var enabled = true;
